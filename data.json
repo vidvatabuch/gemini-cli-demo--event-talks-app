@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The Future of AI: Trends and Predictions",
+    "speakers": ["Dr. Evelyn Reed"],
+    "categories": ["AI", "Machine Learning", "Future Tech"],
+    "description": "A deep dive into the upcoming trends in Artificial Intelligence and what we can expect in the next decade."
+  },
+  {
+    "title": "Modern JavaScript Frameworks in 2026",
+    "speakers": ["John Doe", "Jane Smith"],
+    "categories": ["JavaScript", "Web Development"],
+    "description": "An overview and comparison of the most popular JavaScript frameworks today, including React, Vue, and Svelte."
+  },
+  {
+    "title": "Cybersecurity in a Post-Quantum World",
+    "speakers": ["Dr. Alan Grant"],
+    "categories": ["Security", "Cryptography", "Future Tech"],
+    "description": "Exploring the challenges and solutions for cybersecurity as quantum computing becomes a reality."
+  },
+  {
+    "title": "Building Scalable Cloud-Native Applications",
+    "speakers": ["Maria Rodriguez"],
+    "categories": ["Cloud", "DevOps", "Architecture"],
+    "description": "Best practices for designing and implementing scalable and resilient applications on the cloud."
+  },
+  {
+    "title": "The Art of UI/UX Design",
+    "speakers": ["Emily White", "Chris Green"],
+    "categories": ["UI/UX", "Design", "Web Development"],
+    "description": "A workshop on creating beautiful and user-friendly interfaces that delight users."
+  },
+  {
+    "title": "Introduction to WebAssembly",
+    "speakers": ["David Chen"],
+    "categories": ["WebAssembly", "Web Development", "Performance"],
+    "description": "Learn how WebAssembly is changing the web by enabling near-native performance for web applications."
+  }
+]
